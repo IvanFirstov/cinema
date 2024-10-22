@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IvanFirstov/cinema/static/css/main.9a43e5e3.css",
+    "main.js": "/IvanFirstov/cinema/static/js/main.9d5b80ee.js",
+    "index.html": "/IvanFirstov/cinema/index.html",
+    "main.9a43e5e3.css.map": "/IvanFirstov/cinema/static/css/main.9a43e5e3.css.map",
+    "main.9d5b80ee.js.map": "/IvanFirstov/cinema/static/js/main.9d5b80ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a43e5e3.css",
+    "static/js/main.9d5b80ee.js"
+  ]
+}
